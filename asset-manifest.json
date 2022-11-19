@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InShortsNewsApp/static/css/main.6faa53bc.css",
+    "main.js": "/InShortsNewsApp/static/js/main.bfb87bb2.js",
+    "static/js/787.48e61e9c.chunk.js": "/InShortsNewsApp/static/js/787.48e61e9c.chunk.js",
+    "static/media/loading.gif": "/InShortsNewsApp/static/media/loading.5f03f4e358c09058d1d4.gif",
+    "index.html": "/InShortsNewsApp/index.html",
+    "main.6faa53bc.css.map": "/InShortsNewsApp/static/css/main.6faa53bc.css.map",
+    "main.bfb87bb2.js.map": "/InShortsNewsApp/static/js/main.bfb87bb2.js.map",
+    "787.48e61e9c.chunk.js.map": "/InShortsNewsApp/static/js/787.48e61e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6faa53bc.css",
+    "static/js/main.bfb87bb2.js"
+  ]
+}
